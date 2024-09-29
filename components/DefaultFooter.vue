@@ -6,42 +6,42 @@
       <div class="container mx-auto text-center">
         <p class="mb-3 font-semibold text-gray-500 text-sm">
           © {{ new Date().getFullYear() }}
-          roiLeo. All rights reserved.
+          GEMZ. All rights reserved.
         </p>
 
         <p class="text-sm text-gray-700 dark:text-gray-500">
-          This website is built with
+          Trade GEMZ in the
           <a
-            href="https://nuxt.com/"
+            href="https://t.co/wRO3umEcBq"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Nuxt</a
+            >PPV GEM Telegram</a
           >
           &amp;
           <a
-            href="https://ui.nuxt.com/"
+            href="https://discord.gg/Eakh2uytuq"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Nuxt UI</a
+            >PPV GEM Discord</a
           >
-          and hosted on
+          and on
           <a
-            href="https://netlify.com/"
+            href="https://hahz.arvrtise.com"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Netlify</a
+            >Arvrtise Hahz</a
           >.
           <br />
-          The source code is available on
+          Follow PPV GEM on
           <a
-            href="https://github.com/roiLeo/stupendous-shop"
+            href="https://x.com/ppvgem"
             target="_blank"
             rel="noopener noreferrer"
             class="underline hover:no-underline hover:text-gray-600 transition"
-            >Github</a
+            >X</a
           >.
         </p>
       </div>
